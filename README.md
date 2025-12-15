@@ -2,8 +2,8 @@
 
 ### 👨‍💻 CS Engineering Student | C Language Enjoyer | Professional Bug Creator 🐞
 
-Selamat datang di profil GitHub saya! 
-Saya mahasiswa Informatika yang hobi ngoding *low-level* (C/C++) dan bikin game CLI untuk belajar dasar pemrograman.
+Selamat datang di profil GitHub saya!
+Saya mahasiswa Informatika yang hobi ngoding (C/C++) dan bikin game CLI untuk belajar dasar pemrograman.
 
 ---
 
@@ -37,6 +37,6 @@ Saya mahasiswa Informatika yang hobi ngoding *low-level* (C/C++) dan bikin game 
 
 ---
 <div align="center">
-  <img src="https://media1.tenor.com/m/RaaafbbntQsAAAAC/teto-tetoris.gif" width="300px" />
+  <img src="https://media1.tenor.com/m/RaaafbbntQsAAAAC/teto-tetoris.gif" width="200px" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d01328&height=100&section=footer" width="100%"/>
 </div>
