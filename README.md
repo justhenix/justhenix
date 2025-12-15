@@ -2,7 +2,8 @@
 
 ### 👨‍💻 CS Engineering Student | C Language Enjoyer | Professional Bug Creator 🐞
 
-Selamat datang di profil GitHub saya! Saya mahasiswa Informatika yang hobi ngoding *low-level* (C/C++) dan bikin game CLI untuk belajar dasar pemrograman.
+Selamat datang di profil GitHub saya! 
+Saya mahasiswa Informatika yang hobi ngoding *low-level* (C/C++) dan bikin game CLI untuk belajar dasar pemrograman.
 
 ---
 
