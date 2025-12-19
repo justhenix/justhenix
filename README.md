@@ -35,6 +35,6 @@ Saya mahasiswa Informatika yang hobi ngoding (C/C++) dan bikin game CLI untuk be
 
 ---
 <div align="center">
-  <img src="https://media1.tenor.com/m/RaaafbbntQsAAAAC/teto-tetoris.gif" width="200px" />
+  <img src="https://cdn.jsdelivr.net/gh/justhenix/silly_image@main/teto_w_tetoris.gif" width="200px" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d01328&height=100&section=footer" width="100%"/>
 </div>
