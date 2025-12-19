@@ -1,7 +1,5 @@
 # Hi there, I'm Henix! 👋
 
-### 👨‍💻 Informatics Student |
-
 Selamat datang di profil GitHub saya!
 Saya mahasiswa Informatika yang hobi ngoding (C/C++) dan bikin game CLI untuk belajar dasar pemrograman.
 
