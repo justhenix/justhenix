@@ -5,20 +5,13 @@ Saya mahasiswa Informatika yang hobi ngoding (C/C++) dan bikin game CLI untuk be
 
 ---
 
-### 📊 **My Coding Stats**
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=justhenix&show_icons=true&theme=tokyonight&hide_border=true" alt="Henix's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justhenix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ### 🛠️ **Tech Stack & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,clion,vscode" />
   </a>
 </p>
+
 ---
 
 ### 🏆 **Featured Projects**
