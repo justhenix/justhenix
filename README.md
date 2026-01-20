@@ -1,7 +1,5 @@
 # Hi there, I'm Henix! 👋
 
----
-
 ### 🛠️ **Tech Stack & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
