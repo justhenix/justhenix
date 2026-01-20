@@ -1,8 +1,5 @@
 # Hi there, I'm Henix! 👋
 
-Selamat datang di profil GitHub saya!
-Saya mahasiswa Informatika yang senang belajar teknologi.
-
 ---
 
 ### 🛠️ **Tech Stack & Tools**
