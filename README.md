@@ -1,28 +1,56 @@
-# Hi there, I'm Henix! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d01328&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Henix!;Informatics+Student+@+UNS;TALL+Stack+Enthusiast;Teto's+No.+1+Fan;Building+ExPart+Project" alt="Typing SVG" />
+</div>
 
-### 🛠️ **Tech Stack & Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,clion,vscode" />
-  </a>
-</p>
+### 👨‍💻 About Me
+- 🎓 **Identity:** A first-year Informatics student at **Universitas Sebelas Maret**.
+- 🛠️ **Current Focus:** Deep diving into **TALL Stack** for the **ExPart** project.
+- 🥖 **Obsession:** Developing **Exa**, a mascot inspired by the legend **Kasane Teto**.
+- 📍 **Base:** Currently resides in **Teto's heart**.
 
 ---
 
-### 🏆 **Featured Projects**
+### 🚀 Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <strong>Web Development</strong><br />
+      <img src="https://skillicons.dev/icons?i=laravel,tailwind,php,js,alpinejs,mysql" />
+    </td>
+    <td align="center" width="300">
+      <strong>Core Programming</strong><br />
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,linux" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=justhenix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Henix's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justhenix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+---
+
+### 🏆 Highlighted Works
+
+#### ♻️ **[ExPart (Extend Your Build)](https://expart.store)**
+> *Circular economy marketplace for electronics for IT Competition 8.0 DinusFest 2026.*
+- **Stack:** Laravel, Livewire, Alpine.js, Tailwind CSS.
+- **Mascot:** Integrated with **Exa AI-chan**.
 
 #### ⚔️ **[Fortune Trials](https://github.com/justhenix/fortune-trials)**
-> *A turn-based RPG dungeon crawler built purely in C.*
-- **Features:** Inventory system, skill trees, and Boss battles.
-- **Tech:** C, Structs, Binary Trees, Custom UI Logic.
-
-#### 🎮 **[Return Zer0](https://github.com/justhenix/return-zer0)**
-> *Interactive C Programming Quiz Game.*
-- **Features:** Challenge your logic and syntax knowledge!
-- **Tech:** C, File Handling, Scoreboard System.
+> *Turn-based RPG dungeon crawler built purely in C.*
+- **Tech:** C, Structs, Binary Trees.
 
 ---
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/justhenix/silly_image@main/teto_w_tetoris.gif" width="200px" />
+  <img src="https://cdn.jsdelivr.net/gh/justhenix/silly_image@main/teto_w_tetoris.gif" width="150px" />
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=d01328&height=100&section=footer" width="100%"/>
 </div>
