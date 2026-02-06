@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Identity:** A first-year Informatics student at **Universitas Sebelas Maret**.
 - 🛠️ **Current Focus:** Deep diving into **TALL Stack** for the **ExPart** project.
-- 🥖 **Obsession:** Developing **Exa**, a mascot inspired by the legend **Kasane Teto**.
+- 🥖 **Obsession:** Listening to **Scenecore Musics** and **Teto's Musics**, yes that's my taste.
 - 📍 **Base:** Currently resides in **Teto's heart**.
 
 ---
