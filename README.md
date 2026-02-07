@@ -29,11 +29,6 @@
 
 ### 🏆 Highlighted Works
 
-#### ♻️ **[ExPart (Extend Your Build)](https://expart.store)**
-> *Circular economy marketplace for electronics for IT Competition 8.0 DinusFest 2026.*
-- **Stack:** Laravel, Livewire, Alpine.js, Tailwind CSS.
-- **Mascot:** Integrated with **Exa AI-chan**.
-
 #### ⚔️ **[Fortune Trials](https://github.com/justhenix/fortune-trials)**
 > *Turn-based RPG dungeon crawler built purely in C.*
 - **Tech:** C, Structs, Binary Trees.
