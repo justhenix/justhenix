@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=1ED760&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Henix!;Tech+Enthusiast;Teto's+No.+1+Fan;Doing+Whatever+I+Want+:p" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=1ED760&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Henix!;Tech+Enthusiast;Teto's+Fan;Doing+Whatever+I+Want+:p" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me
