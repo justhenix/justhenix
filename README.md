@@ -24,14 +24,6 @@
   </tr>
 </table>
 
----
-
-### 🏆 Highlighted Works
-
-#### ⚔️ **[Fortune Trials](https://github.com/justhenix/fortune-trials)**
-> *Turn-based RPG dungeon crawler built purely in C.*
-- **Tech:** C, Structs, Binary Trees.
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1ED760&height=100&section=footer" width="100%"/>
 </div>
