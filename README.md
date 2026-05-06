@@ -16,11 +16,11 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,php,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp" />
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,fastapi,threejs" />
+<img src="https://skillicons.dev/icons?i=laravel,tailwind,fastapi,threejs,react" />
 
 **Tools & Infra**
 <br/>
