@@ -16,7 +16,7 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,svelte,php,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,svelte,php,python,c,cpp,rust" />
 
 **Frameworks & Libraries**
 <br/>
