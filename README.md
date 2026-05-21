@@ -2,15 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=1ED760&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Henix!;Tech+Enthusiast;Teto's+Fan;Doing+Whatever+I+Want+:p" alt="Typing SVG" />
 </div>
 
----
-
 ### 👨‍💻 About Me
 
 - 🎓 **Identity:** A first-year Informatics student.
 - 🛠️ **Current Focus:** College stuff, web dev, and robotics.
 - 🥖 **Obsession:** Procrastination™.
-
----
 
 ### 🚀 Technical Arsenal
 
@@ -25,8 +21,6 @@
 **Tools & Infra**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,linux" />
-
----
 
 <div align="center">
   <picture>
