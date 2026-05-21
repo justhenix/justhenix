@@ -16,7 +16,7 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,svelte,php,python,c,cpp" />
 
 **Frameworks & Libraries**
 <br/>
@@ -24,7 +24,7 @@
 
 **Tools & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,docker,linux" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,linux" />
 
 ---
 
