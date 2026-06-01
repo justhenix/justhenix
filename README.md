@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Identity:** A first-year Informatics student.
-- 🛠️ **Current Focus:** College stuff, web dev, and robotics.
-- 🥖 **Obsession:** Procrastination™.
+- 🎓 **Identity:** Full-Stack Product Engineer
+- 🛠️ **Current Focus:** Building high-performance portfolios & Web3 infrastructure
+- 🥖 **Obsession:** Pixel-perfect rendering & zero layout lag
 
 ### 🚀 Technical Arsenal
 
