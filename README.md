@@ -5,7 +5,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Identity:** Full-Stack Product Engineer
-- 🛠️ **Current Focus:** Building high-performance portfolios & Web3 infrastructure
+- 🛠️ **Current Focus:** Building high-performance portfolios & Web infrastructure
 - 🥖 **Obsession:** Pixel-perfect rendering & zero layout lag
 
 ### 🚀 Technical Arsenal
