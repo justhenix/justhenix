@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Identity:** Full-Stack Product Engineer
-- 🛠️ **Current Focus:** Building high-performance portfolios & Web infrastructure
-- 🥖 **Obsession:** Pixel-perfect rendering & zero layout lag
+- 🎓 **Identity:** Full-stack product engineer
+- 🛠️ **Current Focus:** Hackathons ( ﾉ ﾟｰﾟ)ﾉ
+- 🥖 **Obsession:** Pixel-perfect rendering, zero layout lag
 
 ### 🚀 Technical Arsenal
 
