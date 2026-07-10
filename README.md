@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Identity:** Full-stack product engineer
+- 🎓 **Identity:** Full-stack developer
 - 🛠️ **Current Focus:** Learning new things
 - 🥖 **Obsession:** Pixel-perfect rendering, zero layout lag
 
