@@ -4,9 +4,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Identity:** Full-stack developer
-- 🛠️ **Current Focus:** Learning new things
-- 🥖 **Obsession:** Pixel-perfect rendering, zero layout lag
+- 🎓 **Identity:** Full-stack developer.
+- 🛠️ **Current Focus:** Learning new things.
+- 🥖 **Obsession:** Tinkering with UI/UX ’til it feels just right.
 
 ### 🚀 Technical Arsenal
 
