@@ -12,15 +12,15 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,svelte,php,python,c,cpp,rust" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust" />
 
-**Frameworks & Libraries**
+**Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,tailwind,fastapi,threejs,react" />
+<img src="https://skillicons.dev/icons?i=svelte,nextjs" />
 
 **Tools & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,git,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgresql,git,docker" />
 
 <div align="center">
   <picture>
