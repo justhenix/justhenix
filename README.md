@@ -13,11 +13,11 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,rust" />
+<img src="https://skillicons.dev/icons?i=php,ts,python,rust" />
 
 **Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=svelte,nextjs" />
+<img src="https://skillicons.dev/icons?i=laravel,svelte,nextjs" />
 
 **Tools & Infra**
 <br/>
